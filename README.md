@@ -6,7 +6,7 @@ This is a Spanish project for my girlfriend, but feel free to use it for your cr
 
 ## To use it
 ### Unpersonalized
-1. Download the executable [here](https://github.com/mor39a/HeartMaker/releases/latest).
+1. Download the executable (`HeartMaker.zip`) [here](https://github.com/mor39a/HeartMaker/releases/latest).
 2. Share it with your crush.
 
 ### Personalized
