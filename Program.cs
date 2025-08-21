@@ -4,6 +4,8 @@
  * file, You can obtain one at https://mozilla.org/MPL/2.0/.
 */
 
+Console.Title = "Carta de amor ♥";
+
 #if PERSONAL
 string name = "Your crush's name";
 #else
