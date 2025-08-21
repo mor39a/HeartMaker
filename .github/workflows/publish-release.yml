@@ -22,7 +22,7 @@ jobs:
         dotnet-version: '8.0.x'
 
     - name: Publish app
-      run: dotnet publish -c Release /p:DefineConstants="PERSONAL"
+      run: dotnet publish -c Release
 
     - name: Archive published files
       run: |
